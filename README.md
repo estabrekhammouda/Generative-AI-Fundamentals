@@ -31,10 +31,12 @@ node test-ai.js
 You should see an AI-generated response in the terminal.
 
 🧠 What This Project Demonstrates
+
 Feature	Purpose
 .env file	Keeps API keys secure
 AI API call	Confirms AI service connectivity
 Error handling	Handles API call failures safely
+
 🔒 Security Rules
 
 API keys must never be hardcoded
