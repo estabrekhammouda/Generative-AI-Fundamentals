@@ -13,8 +13,11 @@ Basic project structure
 Best practices for environment variables
 
 🚀 Setup Instructions
+
 1️⃣ Install dependencies
+
 npm install
+
 2️⃣ Configure environment variables
 
 Create a .env file:
